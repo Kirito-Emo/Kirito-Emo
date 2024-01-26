@@ -7,9 +7,9 @@
 [//]: <Badges>
 
 <div id="badges" align="center"><br/>
-  <a href="https://it.linkedin.com/in/emanuele-r-873b22211"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/Emanuel08898216?t=nHdZbLdSp-_CEg8zV5KMzA&s=08"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/anarch.emo?igsh=a2E4ZnQ2MDB1em40"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=rainbow" alt="Instagram Badge"/></a>&nbsp;&nbsp;
+  <a href="https://it.linkedin.com/in/emanuele-r-873b22211" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/Emanuel08898216?t=nHdZbLdSp-_CEg8zV5KMzA&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/anarch.emo?igsh=a2E4ZnQ2MDB1em40" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=rainbow" alt="Instagram Badge"/></a>&nbsp;&nbsp;
   <a href="https://github.com/Kirito-Emo"><img src="https://img.shields.io/github/followers/Kirito-Emo?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Followers"/></a>
 </div>&emsp;
 
@@ -26,8 +26,8 @@
 
 <div id="bottom-central" align="center">&emsp;
   <h2>🔥 My Stats</h2>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kirito-Emo&theme=duskfox&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito-Emo&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&card_width=400"/></a>
+	<a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=Kirito-Emo&theme=duskfox&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito-Emo&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&card_width=400"/></a>
 </div>&emsp;
 
 [//]: <Footer>

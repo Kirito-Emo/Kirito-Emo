@@ -6,24 +6,29 @@
 
 [//]: <Badges>
 
-<div id="badges" align="center">
-	<br/>
-	<a href="https://it.linkedin.com/in/emanuele-r-873b22211">
+<div id="badges" align="center"><br/>
+  
+  <a href="https://it.linkedin.com/in/emanuele-r-873b22211">
     	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  	</a>
-	&nbsp;
-  	<a href="https://x.com/Emanuel08898216?t=nHdZbLdSp-_CEg8zV5KMzA&s=08">
-    	<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  	</a>
-  	&nbsp;
-	<img src="https://img.shields.io/github/followers/Kirito-Emo?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Followers"/>
-</div>
+  </a>&nbsp;
+  
+  <a href="https://x.com/Emanuel08898216?t=nHdZbLdSp-_CEg8zV5KMzA&s=08">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>&nbsp;
+  
+  <a href="https://www.instagram.com/anarch.emo?igsh=a2E4ZnQ2MDB1em40">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=rainbow" alt="Instagram Badge"/>
+  </a>&nbsp;
+  
+  <img src="https://img.shields.io/github/followers/Kirito-Emo?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Followers"/>
+  
+</div>&emsp;
 
-___
+---
 
 [//]: <Personal info>
 
-<div id="upper-central" align="center">
+<div id="top-central" align="center">&emsp;
 	<h2> 👨‍💻 About Me </h2>
 </div>
 
@@ -33,11 +38,13 @@ Hi, I am Emanuele an Italian three-year graduate and a master's degree student i
 
 - 🌱 I am currently studying at the university, furthermore I'm self-taughting game development using C#
 
-___
+&emsp;
 
 [//]: <Languages & Tools>
 
-## 🛠️ Languages and Tools
+<div id="central" align="center">&emsp;
+  <h2> 🛠️ Languages and Tools </h2>
+</div>
 
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -62,23 +69,23 @@ ___
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-</div>
-
-___
+</div>&emsp;
 
 [//]: <Stats>
 
-## 🔥 My Stats
+<div id="bottom-central" align="center">&emsp;
+  <h2> 🔥 My Stats </h2>
+</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kirito-Emo&theme=duskfox&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito-Emo&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
-___
+&emsp;
 
 [//]: <Footer>
 
-<div id="footer" align="center">
+<div id="footer" align="center">&emsp;
 	<h2>🌟 Leave a star if you liked my profile! 🌟</h2>
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F1bnNkZW01cXhhbWljbHkxNDYyYm9jbTRxdHd3Z3R0c3E5ZmQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="100%"/>
 </div>

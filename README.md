@@ -27,7 +27,7 @@
 <div id="bottom-central" align="center">&emsp;
   <h2>🔥 My Stats</h2>
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kirito-Emo&theme=duskfox&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&card_width=550" alt="GitHub Streak" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito-Emo&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&card_width=400"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito-Emo&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&card_width=400"/></a>
 </div>&emsp;
 
 [//]: <Footer>
